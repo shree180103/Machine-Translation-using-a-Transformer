@@ -1,0 +1,181 @@
+processing epoch00: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:29<00:00,  3.91it/s, loss=5.962] 
+--------------------------------------------------------------------------------
+SOURCE:We smiled sadly at one another, and said we supposed we had better try to swallow a bit.
+TARGET:Ci scambiammo l’un l’altro un triste sorriso, e ci dicemmo che forse sarebbe stato meglio provare a buttar giù un boccone.
+PREDICTED:Il signor Rochester era un ’ altra , e non poteva , e non .
+--------------------------------------------------------------------------------
+SOURCE:I set out; I walked fast, but not far: ere I had measured a quarter of a mile, I heard the tramp of hoofs; a horseman came on, full gallop; a dog ran by his side.
+TARGET:Uscii: camminavo presto, ma non mi spinsi lontano. Non avevo fatto un quarto di miglio che sentii il passo di un cavallo; un cavaliere giunse di galoppo e un cane gli correva accanto.
+PREDICTED:Non mi , e non , e non , e che non , e che non , e la mia vita , e che non .
+processing epoch01: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:31<00:00,  3.91it/s, loss=5.470]
+--------------------------------------------------------------------------------
+SOURCE:The dinner was as good as the dinner service, a thing of which Oblonsky was a connoisseur.
+TARGET:Il pranzo fu altrettanto raffinato quanto il vasellame di cui Stepan Arkad’ic era un appassionato.
+PREDICTED:La porta era un ’ altra volta , che aveva fatto la sua mano , Levin si alzò , e Levin si mise a Levin .
+--------------------------------------------------------------------------------
+SOURCE:Oblonsky's tendency and opinions were not his by deliberate choice: they came of themselves, just as he did not choose the fashion of his hats or coats but wore those of the current style.
+TARGET:Stepan Arkad’ic non sceglieva né le tendenze né le opinioni, ma queste stesse tendenze e opinioni giungevano a lui da sole, proprio allo stesso modo come non lui sceglieva la foggia del cappello o del soprabito, ma adottava quella che era di moda.
+PREDICTED:Stepan Arkad ’ ic , ma non era stato più di nuovo , ma non si era stato più più più di , e che non si era stato in un ’ altra volta , e che non era stato in un ’ altra volta . 
+processing epoch02: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:27<00:00,  3.92it/s, loss=5.338]
+--------------------------------------------------------------------------------
+SOURCE:Grisha, please don't pull so hard, it is all in a tangle already,' she said, arranging a loose lock of hair with which Grisha was playing.
+TARGET:Griša, non tirare, ti prego, sono già tutta spettinata — disse, aggiustandosi una ciocca di capelli fuori di posto con la quale Griša aveva giocato.
+PREDICTED:Alice non ci , non si può fare , e , dopo aver fatto un po ’ di seta , si mise a ridere .
+--------------------------------------------------------------------------------
+SOURCE:It was, no doubt: only Alice did not like to be told so.
+TARGET:Senza dubbio, ma Alice non voleva sentirlo dire.
+PREDICTED:Non era nulla , ma non ci .
+processing epoch03: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:28<00:00,  3.92it/s, loss=4.504]
+--------------------------------------------------------------------------------
+SOURCE:You have not yet commenced proceedings, as I understand?
+TARGET:Ti supplico, fa’ ciò che ti dico — disse. — La causa non è ancora cominciata, a quanto ho capito.
+PREDICTED:Non vi avete detto che cosa mi ?
+--------------------------------------------------------------------------------
+SOURCE:He rose and walked through the room. Standing still, he again looked at me. He shook his head.
+TARGET:Egli si alzò e passeggiò nella stanza; poi, fermandosi, scrollò il capo.
+PREDICTED:Egli si fermò e si fermò , mi guardò con un tratto , mi guardò con la mano .
+processing epoch04: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:39<00:00,  3.87it/s, loss=3.493]
+--------------------------------------------------------------------------------
+SOURCE:He had performed an act of duty; made an exertion; felt his own strength to do and deny, and was on better terms with himself.
+TARGET:Aveva compiuto un dovere, fatto uno sforzo, ed era più soddisfatto di sé stesso.
+PREDICTED:Egli aveva un uomo di vergogna , ma era un ’ espressione di gioia e di non essere così come un ’ altra , e perciò si poteva .
+--------------------------------------------------------------------------------
+SOURCE:The order was given: 'Mount!'
+TARGET:Poi si udì: «in sella!».
+PREDICTED:Il suo arrivo era il suo !
+processing epoch05: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:32<00:00,  3.90it/s, loss=5.646]
+--------------------------------------------------------------------------------
+SOURCE:Who can tell what a dark, dreary, hopeless life I have dragged on for months past?
+TARGET:Nessuno può sapere quale esistenza desolata abbia trascorso per lunghi mesi.
+PREDICTED:Chi può essere un lume , una vita bella , ma non ho mai veduto ?
+--------------------------------------------------------------------------------
+SOURCE:'What a windbag,' he thought as he listened to the celebrated doctor's chatter about Kitty's symptoms.
+TARGET:“Eccolo, lo spadellatore!” pensava, adattando nel pensiero il termine venatorio al medico di grido e ascoltandone le dissertazioni sui sintomi della malattia della figlia.        
+PREDICTED:“ Che cosa ci sia — pensò , guardando il dottore di Kitty , con la sua la sua .
+processing epoch06: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:29<00:00,  3.92it/s, loss=4.605]
+--------------------------------------------------------------------------------
+SOURCE:'Yes,' she said, 'but don't let us talk about it.'
+TARGET:— Sì — disse. — Ma non parliamo più di questo.
+PREDICTED:— Sì — ella disse — ma non parliamo più .
+--------------------------------------------------------------------------------
+SOURCE:Here it is!' and Petritsky drew the letter from under the mattress where he had put it.
+TARGET:Eccola! — E Petrickij tirò fuori di sotto al materasso la lettera che aveva nascosta.
+PREDICTED:Ecco , va ’ ! — disse Petrickij , sedendosi in fretta e facendo un .
+processing epoch07: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:29<00:00,  3.92it/s, loss=4.604]
+--------------------------------------------------------------------------------
+SOURCE:DURING THIS, THE FIRST PERIOD of her freedom and rapid recovery, Anna was unpardonably happy and full of the joy of life.
+TARGET:Anna, in quel periodo di libertà e rapida guarigione, si sentiva imperdonabilmente felice e piena di gioia di vivere.
+PREDICTED:Durante la prima volta , la prima volta , Anna si era e si sentiva sempre felice di essere felice e di tutto il mondo .
+--------------------------------------------------------------------------------
+SOURCE:And here no clear idea presented itself to his mind.
+TARGET:E qui non vedeva più con chiarezza.
+PREDICTED:E qui non si sentiva in nessun modo di pensare .
+processing epoch08: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:27<00:00,  3.92it/s, loss=2.285]
+--------------------------------------------------------------------------------
+SOURCE:For instance, she predicted that the Shahovskaya girl would marry Brenteln.
+TARGET:Per esempio, ha predetto che la Šachovskaja avrebbe sposato Brentel’n.
+PREDICTED:Per esempio , ella le parole che le di una ragazza .
+--------------------------------------------------------------------------------
+SOURCE:“Then we give them the shoot gun,” says Xury, laughing, “make them run wey.”
+TARGET:— Allora far sentire a questi uomi nostri moschetti, rispose Xury sorridendo, e farli fuggire.» Xury aveva imparato a parlare o piuttosto a storpiare la mia lingua dal molto conversare con gli schiavi di nostra nazione.
+PREDICTED:Allora noi il moschetto , Venerdì , gli , , Venerdì ! — « Me mangiar loro !»
+processing epoch09: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:31<00:00,  3.91it/s, loss=3.764]
+--------------------------------------------------------------------------------
+SOURCE:I never saw such a thing as paraffine oil is to ooze.
+TARGET:Non avevo visto mai nulla che avesse la penetrazione del petrolio.
+PREDICTED:Non ho mai visto mai ciò che è d ’ un metodo di petrolio .
+--------------------------------------------------------------------------------
+SOURCE:Anna noticed the sigh, which expressed dissent, and continued.
+TARGET:Anna notò questo sospiro che esprimeva dissenso, e continuò.
+PREDICTED:Anna si accorse di aver guardato il ricordo di Anna , e continuò :
+processing epoch10: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:30<00:00,  3.91it/s, loss=3.474]
+--------------------------------------------------------------------------------
+SOURCE:What made you think of ambition?
+TARGET:Che cosa vi fa pensare all'ambizione?
+PREDICTED:Che cosa avete fatto l ' ambizione della ambizione ?
+--------------------------------------------------------------------------------
+SOURCE:'But in what do you perceive the peculiar quality of the Russian worker?' asked Metrov. 'In his zoological qualities, so to say, or in the conditions in which he is placed?'      
+TARGET:— Ma in che cosa vedete le peculiarità del lavoratore russo? — disse Metrov. — Nelle sue caratteristiche, per così dire, zoologiche o nelle condizioni in cui esso si trova?       
+PREDICTED:— Ma in che cosa avete mai trovato il valore dei monaci di questo falegname — chiese Metrov . — A che , in nome di Dio , è vero ?
+processing epoch11: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:27<00:00,  3.92it/s, loss=3.529]
+--------------------------------------------------------------------------------
+SOURCE:'Why?'
+TARGET:— E perché?
+PREDICTED:— Perché ?
+--------------------------------------------------------------------------------
+SOURCE:On the one hand this fact disturbed him, but on the other hand it seemed the best way.
+TARGET:Da una parte ciò lo agitava, dall’altra giudicava che fosse meglio.
+PREDICTED:Uno dei giudici di mano lo facevano in mano , ma in compenso gli altri lo facevano male .
+processing epoch12: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:30<00:00,  3.91it/s, loss=3.378]
+--------------------------------------------------------------------------------
+SOURCE:MARLOW is one of the pleasantest river centres I know of.
+TARGET:Marlow è uno dei più bei centri fluviali che io mi conosca.
+PREDICTED:Il fiume è molto piacevole più piacevole del fiume .
+--------------------------------------------------------------------------------
+SOURCE:'Never mind! You propose when your love is ripe or when the balance falls in favour of one of those between whom your choice lies.
+TARGET:— È lo stesso, voi fate la proposta di matrimonio quando il vostro amore è venuto a maturità o quando fra due da scegliere s’è fatto il soprappeso.
+PREDICTED:— Non ti importa nulla di vostra domanda quando si fa la vostra domanda o quando si a un tratto , in un favore che si trova in sulla vostra scelta .
+processing epoch13: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:38<00:00,  3.87it/s, loss=2.381]
+--------------------------------------------------------------------------------
+SOURCE:'Oh! I can't make anything out!
+TARGET:— Ah, non capisco più nulla!
+PREDICTED:— Ah ! non posso fare .
+--------------------------------------------------------------------------------
+SOURCE:It's impossible to say anything new about her,' said a stout, red-faced, fair-haired lady who wore an old silk dress and had no eyebrows and no chignon.
+TARGET:Di lei ormai non si può dire nulla di nuovo — disse una signora grassa, rossa, senza sopracciglia e senza chignons, coi capelli bianchi e un vecchio vestito di seta.
+PREDICTED:È impossibile dire qualcosa di nuovo — disse uno sguardo rosso , severo e rosso , rosso di seta , che esprimeva nella pettinatura che non aveva simpatia e che non aveva visto .
+processing epoch14: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:24<00:00,  3.93it/s, loss=2.383]
+--------------------------------------------------------------------------------
+SOURCE:He will never love me; but he shall approve me; I will show him energies he has not yet seen, resources he has never suspected.
+TARGET:"Egli non mi amerà mai, ma mi approverà. Gli mostrerò un'energia non mai veduta.
+PREDICTED:Egli non mi ama mai vita , ma egli si capisce e io lo con la sua energia , non ha mai veduto quello che ha mai veduto , e non ha mai veduto .
+--------------------------------------------------------------------------------
+SOURCE:'There now! You never manage to say such pretty things,' said the Baroness to Petritsky.
+TARGET:— Ecco, voi non sapete mai dirmi delle cose così gentili — disse la baronessa rivolta a Petrickij.
+PREDICTED:— Su , adesso non c ’ è mai nessuno , così — disse la baronessa . — Su , allora , allora , allora , che cosa fa bene , a Petrickij è così .
+processing epoch15: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:37<00:00,  3.88it/s, loss=3.688]
+--------------------------------------------------------------------------------
+SOURCE:That afternoon lapsed in peace and harmony; and in the evening Bessie told me some of her most enchanting stories, and sang me some of her sweetest songs.
+TARGET:Il dopopranzo trascorse nella pace e nell'armonia. La sera Bessie mi narrò le più belle fra le sue novelle e mi cantò le più dolci canzoni.
+PREDICTED:Questa giornata e profonda e nella serata in me , e nella sua camera mi parlò sui suoi più dolci più violente .
+--------------------------------------------------------------------------------
+SOURCE:'But what can we do?' said Levin.
+TARGET:— Ma che possiamo fare mai? — disse Levin.
+PREDICTED:— Ma che farci ? — disse Levin .
+processing epoch16: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:31<00:00,  3.91it/s, loss=1.927]
+--------------------------------------------------------------------------------
+SOURCE:He did not acknowledge it to himself, but in the depths of his soul he wished her to suffer for impairing his peace of mind and his honour.
+TARGET:Egli non lo confessava questo sentimento, ma in fondo all’anima voleva che ella soffrisse per aver turbato la sua pace, e per aver offeso il suo onore.
+PREDICTED:Non lo aveva agito con se stesso , ma , in fondo all ’ anima , avrebbe voluto ingannare il proprio amore e di aver presa l ’ onore .
+--------------------------------------------------------------------------------
+SOURCE:Now it's settled...'
+TARGET:Ormai è concluso....
+PREDICTED:Ecco , è finita .
+processing epoch17: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:32<00:00,  3.90it/s, loss=2.373]
+--------------------------------------------------------------------------------
+SOURCE:Alexander the Sixth arose afterwards, who of all the pontiffs that have ever been showed how a pope with both money and arms was able to prevail; and through the instrumentality of the Duke Valentino, and by reason of the entry of the French, he brought about all those things which I have discussed above in the actions of the duke.
+TARGET:Surse di poi Alessandro VI, il quale, di tutt’i pontefici che sono stati mai, monstrò quanto uno papa, e con il danaio e con le forze, si poteva prevalere, e fece, con lo instrumento del duca Valentino e con la occasione della passata de' Franzesi, tutte quelle cose che io discorro di sopra nelle azioni del duca.
+PREDICTED:Alessandro VI , dopo averli stati , con ogni cosa che fece con lo stato più tardi a cui e quando fu concesso loro , e per el duca di quella provincia , e per rendermi francese dai ' dello stesso nome del duca di quella : in modo che io ho el duca del duca .
+--------------------------------------------------------------------------------
+SOURCE:CHAPTER XXV
+TARGET:XXV
+PREDICTED:XXV
+processing epoch18: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:29<00:00,  3.91it/s, loss=2.315]
+--------------------------------------------------------------------------------
+SOURCE:'Blessed be our God, now and hereafter, for ever and ever!' replied the old priest meekly, in a sing-song voice, continuing to turn something over on the lectern.
+TARGET:“Sia benedetto Iddio nostro sempre, adesso e ognora e nei secoli dei secoli” rispose umilmente il vecchietto seguitando a sfogliare qualcosa sul leggio.
+PREDICTED:— Beati i nostri , e per sempre , per sempre ? — disse il sacerdote con voce affrettata , rivolgendosi a una voce irritata , continuando un quadro per qualcosa di spiacevole . — Metti in una relazione con il leggio .
+--------------------------------------------------------------------------------
+SOURCE:'Yes, I have heard,' replied Oblonsky. 'They say he has completely cured the Countess Bezzubov.'
+TARGET:— Già, ho sentito — rispose Stepan Arkad’ic. — Dicono che abbia del tutto guarito la contessa Bezzubova.
+PREDICTED:— Già , ho sentito — rispose Stepan Arkad ’ ic . — E dicono che sia proprio in grado di servire la contessa Lidija Ivanovna .
+processing epoch19: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3638/3638 [15:29<00:00,  3.91it/s, loss=2.714]
+--------------------------------------------------------------------------------
+SOURCE:'We Russians are always like that. It may be a good trait in us – this capacity to see our own faults – but we overdo it, and comfort ourselves with sarcasm, which is always ready on our tongues.
+TARGET:Forse è anche una nostra buona qualità... la facoltà di vedere sempre i nostri difetti; ma noi esageriamo, e ci consoliamo con l’ironia che abbiamo sempre pronta sulle labbra.    
+PREDICTED:— Noi siamo persone simili a questo ; occorre sempre un bene ; e in questo ci si può esaminare le fortezze , e noi la sua , nella sua dolcezza , nella nostra antica amicizia con noi , è sempre pronto e ne sempre .
+--------------------------------------------------------------------------------
+SOURCE:'Italian bookkeeping!' said the landowner scornfully. 'Keep your accounts as you will – if they spoil everything you have got, you won't have a profit!'
+TARGET:— Contabilità all’italiana — disse ironico il proprietario. — In qualunque modo fai i conti, quando ti sciupano tutto, non c’è guadagno.
+PREDICTED:— Serpente ! — gridò il proprietario . — Non , come , se non vi , non vi un .
+PS C:\Users\shree\OneDrive\Documents\Machine Translation> 
